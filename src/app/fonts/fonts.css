@@ -1,0 +1,21 @@
+@font-face{
+    font-family: 'Mango-black';
+    src:url('./MangoGrotesque-Black.otf');
+  }
+.Font-Mangoblack {
+    font-family: Mango-black;
+}
+@font-face{
+    font-family: 'Mango-bold';
+    src:url('./MangoGrotesque-Bold.otf');
+  }
+.Font-Mangobold {
+    font-family: Mango-bold;
+}
+@font-face{
+    font-family: 'Mango-extrabold';
+    src:url('./MangoGrotesque-ExtraBold.otf');
+  }
+.Font-Mangoextrabold {
+    font-family: Mango-extrabold;
+}
